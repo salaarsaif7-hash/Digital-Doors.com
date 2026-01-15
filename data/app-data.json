@@ -143,33 +143,7 @@
       "price": "200 PKR",
       "icon": "https://jollymod.com/assets/icon_68cd932f84afa.jpg"
     },
-    {
-      "id": 38,
-      "name": "PhotoRoom",
-      "category": "Photo Editing & AI Art",
-      "description": "Background removal and photo editing",
-      "isFeatured": true,
-      "price": "200 PKR",
-      "icon": "https://jollymod.com/assets/icon_691a15b388db6.png"
-    },
-    {
-      "id": 39,
-      "name": "PicWish",
-      "category": "Photo Editing & AI Art",
-      "description": "AI photo editor and enhancer",
-      "isFeatured": true,
-      "price": "200 PKR",
-      "icon": "https://jollymod.com/assets/icon_69137e9a4d503.webp"
-    },
-    {
-      "id": 40,
-      "name": "LightX",
-      "category": "Photo Editing & AI Art",
-      "description": "Photo editor with advanced features",
-      "isFeatured": true,
-      "price": "200 PKR",
-      "icon": "https://jollymod.com/assets/icon_690795796cf31.jpg"
-    },
+   
     {
       "id": 48,
       "name": "Remini",
@@ -700,5 +674,405 @@
       "isFeatured": true,
       "price": "200 PKR",
       "icon": "https://jollymod.com/assets/icon_68ac9cca42d19.jpg"
+    },
+    
+  {
+    "id": 1,
+    "name": "HungamaOTT",
+    "category": "Video Streaming",
+    "description": "Indian streaming platform with movies and TV shows",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_695c076d210c6.png"
+  },
+  {
+    "id": 2,
+    "name": "Amazon Mini TV",
+    "category": "Video Streaming",
+    "description": "Free ad-supported streaming service by Amazon",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_69501eb90af47.png"
+  },
+  {
+    "id": 3,
+    "name": "Eroflix",
+    "category": "Video Streaming",
+    "description": "Adult content streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694d7f2382478.png"
+  },
+  {
+    "id": 4,
+    "name": "DramaRush",
+    "category": "Video Streaming",
+    "description": "Asian dramas and TV series streaming",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694040aeb219a.png"
+  },
+  {
+    "id": 5,
+    "name": "SonyLIV",
+    "category": "Video Streaming",
+    "description": "Sony's Indian streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68bf20700c7ce.webp"
+  },
+  {
+    "id": 6,
+    "name": "Cinema Vip Premium",
+    "category": "Video Streaming",
+    "description": "Premium movie streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68b9d99e779cc.png"
+  },
+  {
+    "id": 7,
+    "name": "FlixFox",
+    "category": "Video Streaming",
+    "description": "Multi-source streaming application",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68bc24ded1d8f.webp"
+  },
+  {
+    "id": 8,
+    "name": "MovieBox",
+    "category": "Video Streaming",
+    "description": "Popular movie streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_688670bb066c4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cartoon TV App Hindi - XON",
+    "category": "Video Streaming",
+    "description": "Cartoons in Hindi language",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6887839871d08.webp"
+  },
+  {
+    "id": 10,
+    "name": "JioCinema",
+    "category": "Video Streaming",
+    "description": "Reliance Jio's streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68877ba7d6112.webp"
+  },
+  {
+    "id": 11,
+    "name": "ZEE5",
+    "category": "Video Streaming",
+    "description": "Zee Entertainment's streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6881e50c2f871.webp"
+  },
+  {
+    "id": 12,
+    "name": "Amazon Prime Video",
+    "category": "Video Streaming",
+    "description": "Amazon's premium streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68714f5763bd3.webp"
+  },
+  {
+    "id": 13,
+    "name": "Crunchyroll",
+    "category": "Video Streaming",
+    "description": "Anime streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687299e8b54f4.webp"
+  },
+  {
+    "id": 14,
+    "name": "Netflix mirror",
+    "category": "Video Streaming",
+    "description": "Alternative Netflix client",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68714c1eeeb94.webp"
+  },
+  {
+    "id": 15,
+    "name": "JioHotstar",
+    "category": "Video Streaming",
+    "description": "Disney+ Hotstar with Jio integration",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687220665cbc9.webp"
+  },
+  {
+    "id": 16,
+    "name": "TeaTV",
+    "category": "Video Streaming",
+    "description": "Free movie and TV show streaming",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687669608c1cc.png"
+  },
+  {
+    "id": 17,
+    "name": "Dooflix",
+    "category": "Video Streaming",
+    "description": "Streaming app for movies and series",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68729ce828745.webp"
+  },
+  {
+    "id": 18,
+    "name": "Picasso: Live TV Movie & Show",
+    "category": "Video Streaming",
+    "description": "Live TV and on-demand content",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_686c1cafe5b35.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Disney+ Plus Alternative",
+    "category": "Video Streaming",
+    "description": "Alternative Disney+ streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68c45c76562ed.webp"
+  },
+  {
+    "id": 20,
+    "name": "MX Player",
+    "category": "Video Streaming",
+    "description": "Video player with streaming content",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68cae853cf2c9.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Toomics",
+    "category": "Video Streaming",
+    "description": "Webtoon and comic platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68d826ced1723.jpg"
+    
+  },
+  
+  {
+    "id": 58,
+    "name": "AI Chat Smith",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chatbot assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694edd7800146.png"
+  },
+  {
+    "id": 59,
+    "name": "Question.AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI question answering app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6907976a9e7e0.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Nerd AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI assistant for learning",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68dc1ea2cdb1b.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Umagic AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI-powered creative assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68d6d88f32af5.jpg"
+  },
+  {
+    "id": 62,
+    "name": "ChatGPT Premium",
+    "category": "AI Assistants & Chatbots",
+    "description": "Premium version of ChatGPT",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_689f78840f30a.webp"
+  },
+  {
+    "id": 63,
+    "name": "DeepAsk AI assistant pro",
+    "category": "AI Assistants & Chatbots",
+    "description": "Advanced AI assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6894d3d5c1b2e.avif"
+  },
+  {
+    "id": 64,
+    "name": "AI Chat",
+    "category": "AI Assistants & Chatbots",
+    "description": "General AI chat application",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68a07805c4ca4.jpg"
+    
+  },
+  {
+    "id": 65,
+    "name": "Chat AI: AI Chat Bot Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chatbot with multiple features",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6890c9f017b2c.webp"
+  },
+  {
+    "id": 66,
+    "name": "ChatGPT Ghibli",
+    "category": "AI Assistants & Chatbots",
+    "description": "Studio Ghibli themed ChatGPT",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6880fd196aaec.webp"
+  },
+  {
+    "id": 67,
+    "name": "Grok - AI Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "xAI's Grok AI assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_687bc3ff42720.webp"
+  },
+  {
+    "id": 68,
+    "name": "ChatOn - AI Chat Bot Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chat and writing assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_687bc2d309366.webp"
+  },
+  {
+    "id": 69,
+    "name": "Microsoft Copilot",
+    "category": "AI Assistants & Chatbots",
+    "description": "Microsoft's AI assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_686a9fdcbdd68.webp"
+  },
+  {
+    "id": 70,
+    "name": "Perplexity - Ask Anything",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI search and answer engine",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_69443b215154c.jpg"
+  },
+   {
+      "id": 38,
+      "name": "PhotoRoom",
+      "category": "Photo Editing & AI Art",
+      "description": "Background removal and photo editing",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_691a15b388db6.png"
+    },
+    {
+      "id": 39,
+      "name": "PicWish",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo editor and enhancer",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_69137e9a4d503.webp"
+    },
+    {
+      "id": 40,
+      "name": "LightX",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo editor with advanced features",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_690795796cf31.jpg"
+    },
+    {
+      "id": 41,
+      "name": "AI Morph",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered face morphing app",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68dc1da2a44e1.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Genius Art",
+      "category": "Photo Editing & AI Art",
+      "description": "AI art generator",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68adc447efed3.webp"
+    },
+    {
+      "id": 43,
+      "name": "Prisma AI",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo effects and filters",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a5c45e2d39e.webp"
+    },
+    {
+      "id": 44,
+      "name": "AIFoto",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered photo enhancement",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a36db00f22d.webp"
+    },
+    {
+      "id": 45,
+      "name": "Dreamify",
+      "category": "Photo Editing & AI Art",
+      "description": "Dream-like AI art creation",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a078fe95b01.webp"
+    },
+    {
+      "id": 46,
+      "name": "Photo Lab Pro",
+      "category": "Photo Editing & AI Art",
+      "description": "Professional photo editing lab",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_689e2a9f69ff1.webp"
+    },
+    {
+      "id": 47,
+      "name": "Photo Lab",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo effects and editing tools",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68765955671e9.webp"
     }
   ]

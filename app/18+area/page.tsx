@@ -33,10 +33,10 @@ const Page = () => {
       {/* Header */}
       <div className="text-center mb-8 sm:mb-12">
         <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-2 bg-gradient-to-r from-red-500 via-red-400 to-pink-500 bg-clip-text text-transparent">
-          🔞 18+ Apps Zone
+          BEST PREMIUM APPS ZONE 
         </h1>
         <p className="text-gray-400 text-sm sm:text-base md:text-lg">
-          Premium Adult Applications Collection
+          Premium version Ads Free Applications Collection
         </p>
         <div className="w-20 sm:w-24 h-1 bg-gradient-to-r from-red-500 to-pink-500 mx-auto mt-4 rounded-full"></div>
       </div>
