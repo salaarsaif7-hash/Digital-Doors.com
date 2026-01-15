@@ -29,12 +29,6 @@ export function NavbarDemo() {
     {
       name: "Streaming & Entertainment",
       link: "/streaming",
-    },
-    {
-      name: "Courses & Learning",
-      link: "/Courses",
-
-
     }
   ];
 
@@ -75,20 +69,7 @@ export function NavbarDemo() {
               </a>
             ))}
             <div className="flex w-full flex-col gap-4">
-              <NavbarButton
-                onClick={() => setIsMobileMenuOpen(false)}
-                variant="primary"
-                className="w-full"
-              >
-                Login
-              </NavbarButton>
-              <NavbarButton
-                onClick={() => setIsMobileMenuOpen(false)}
-                variant="primary"
-                className="w-full"
-              >
-                Book a call
-              </NavbarButton>
+              <NavbarButton>Get Premium</NavbarButton>
             </div>
           </MobileNavMenu>
         </MobileNav>

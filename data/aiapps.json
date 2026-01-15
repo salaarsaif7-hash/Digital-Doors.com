@@ -1,0 +1,210 @@
+[
+  {
+    "id": 58,
+    "name": "AI Chat Smith",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chatbot assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694edd7800146.png"
+  },
+  {
+    "id": 59,
+    "name": "Question.AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI question answering app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6907976a9e7e0.jpg"
+  },
+  {
+    "id": 60,
+    "name": "Nerd AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI assistant for learning",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68dc1ea2cdb1b.jpg"
+  },
+  {
+    "id": 61,
+    "name": "Umagic AI",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI-powered creative assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68d6d88f32af5.jpg"
+  },
+  {
+    "id": 62,
+    "name": "ChatGPT Premium",
+    "category": "AI Assistants & Chatbots",
+    "description": "Premium version of ChatGPT",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_689f78840f30a.webp"
+  },
+  {
+    "id": 63,
+    "name": "DeepAsk AI assistant pro",
+    "category": "AI Assistants & Chatbots",
+    "description": "Advanced AI assistant",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6894d3d5c1b2e.avif"
+  },
+  {
+    "id": 64,
+    "name": "AI Chat",
+    "category": "AI Assistants & Chatbots",
+    "description": "General AI chat application",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68a07805c4ca4.jpg"
+    
+  },
+  {
+    "id": 65,
+    "name": "Chat AI: AI Chat Bot Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chatbot with multiple features",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6890c9f017b2c.webp"
+  },
+  {
+    "id": 66,
+    "name": "ChatGPT Ghibli",
+    "category": "AI Assistants & Chatbots",
+    "description": "Studio Ghibli themed ChatGPT",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6880fd196aaec.webp"
+  },
+  {
+    "id": 67,
+    "name": "Grok - AI Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "xAI's Grok AI assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_687bc3ff42720.webp"
+  },
+  {
+    "id": 68,
+    "name": "ChatOn - AI Chat Bot Assistant",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI chat and writing assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_687bc2d309366.webp"
+  },
+  {
+    "id": 69,
+    "name": "Microsoft Copilot",
+    "category": "AI Assistants & Chatbots",
+    "description": "Microsoft's AI assistant",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_686a9fdcbdd68.webp"
+  },
+  {
+    "id": 70,
+    "name": "Perplexity - Ask Anything",
+    "category": "AI Assistants & Chatbots",
+    "description": "AI search and answer engine",
+    "isFeatured": true,
+    "price": "150 PKR",
+    "icon": "https://jollymod.com/assets/icon_69443b215154c.jpg"
+  },
+   {
+      "id": 38,
+      "name": "PhotoRoom",
+      "category": "Photo Editing & AI Art",
+      "description": "Background removal and photo editing",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_691a15b388db6.png"
+    },
+    {
+      "id": 39,
+      "name": "PicWish",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo editor and enhancer",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_69137e9a4d503.webp"
+    },
+    {
+      "id": 40,
+      "name": "LightX",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo editor with advanced features",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_690795796cf31.jpg"
+    },
+    {
+      "id": 41,
+      "name": "AI Morph",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered face morphing app",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68dc1da2a44e1.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Genius Art",
+      "category": "Photo Editing & AI Art",
+      "description": "AI art generator",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68adc447efed3.webp"
+    },
+    {
+      "id": 43,
+      "name": "Prisma AI",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo effects and filters",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a5c45e2d39e.webp"
+    },
+    {
+      "id": 44,
+      "name": "AIFoto",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered photo enhancement",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a36db00f22d.webp"
+    },
+    {
+      "id": 45,
+      "name": "Dreamify",
+      "category": "Photo Editing & AI Art",
+      "description": "Dream-like AI art creation",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68a078fe95b01.webp"
+    },
+    {
+      "id": 46,
+      "name": "Photo Lab Pro",
+      "category": "Photo Editing & AI Art",
+      "description": "Professional photo editing lab",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_689e2a9f69ff1.webp"
+    },
+    {
+      "id": 47,
+      "name": "Photo Lab",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo effects and editing tools",
+      "isFeatured": true,
+      "price": "150 PKR",
+      "icon": "https://jollymod.com/assets/icon_68765955671e9.webp"
+    }
+]

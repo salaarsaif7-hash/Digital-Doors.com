@@ -1,12 +1,15 @@
 "use client";
+import layout from "@/app/layout";
 import { cn } from "@/utils/cn";
 import { IconMenu2, IconX } from "@tabler/icons-react";
+
 import {
   motion,
   AnimatePresence,
   useScroll,
   useMotionValueEvent,
 } from "motion/react";
+import Link from "next/link";
 
 import React, { useRef, useState } from "react";
 
@@ -227,23 +230,26 @@ export const MobileNavToggle = ({
     <IconMenu2 className="text-white dark:text-white" onClick={onClick} />
   );
 };
-
 export const NavbarLogo = () => {
   return (
-    <a
-      href="#"
+    <Link
+      href="/"
       className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal text-black"
     >
       <img
-        src="https://assets.aceternity.com/logo-dark.png"
+        src="/logo.svg.png"
         alt="logo"
-        width={30}
-        height={30}
+        width={40}
+        height={40}
+        className="rounded-full object-cover bg-transparent"
       />
-      <span className="font-medium text-white">DIGITAL DOORS</span>
-    </a>
+      <span className="font-medium text-white">
+        DIGITAL DOORS
+      </span>
+    </Link>
   );
 };
+
 
 export const NavbarButton = ({
   href,

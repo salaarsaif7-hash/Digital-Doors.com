@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "name": "HungamaOTT",
+    "category": "Video Streaming",
+    "description": "Indian streaming platform with movies and TV shows",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_695c076d210c6.png"
+  },
+  {
+    "id": 2,
+    "name": "Amazon Mini TV",
+    "category": "Video Streaming",
+    "description": "Free ad-supported streaming service by Amazon",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_69501eb90af47.png"
+  },
+  {
+    "id": 3,
+    "name": "Eroflix",
+    "category": "Video Streaming",
+    "description": "Adult content streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694d7f2382478.png"
+  },
+  {
+    "id": 4,
+    "name": "DramaRush",
+    "category": "Video Streaming",
+    "description": "Asian dramas and TV series streaming",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_694040aeb219a.png"
+  },
+  {
+    "id": 5,
+    "name": "SonyLIV",
+    "category": "Video Streaming",
+    "description": "Sony's Indian streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68bf20700c7ce.webp"
+  },
+  {
+    "id": 6,
+    "name": "Cinema Vip Premium",
+    "category": "Video Streaming",
+    "description": "Premium movie streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68b9d99e779cc.png"
+  },
+  {
+    "id": 7,
+    "name": "FlixFox",
+    "category": "Video Streaming",
+    "description": "Multi-source streaming application",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68bc24ded1d8f.webp"
+  },
+  {
+    "id": 8,
+    "name": "MovieBox",
+    "category": "Video Streaming",
+    "description": "Popular movie streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_688670bb066c4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cartoon TV App Hindi - XON",
+    "category": "Video Streaming",
+    "description": "Cartoons in Hindi language",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6887839871d08.webp"
+  },
+  {
+    "id": 10,
+    "name": "JioCinema",
+    "category": "Video Streaming",
+    "description": "Reliance Jio's streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68877ba7d6112.webp"
+  },
+  {
+    "id": 11,
+    "name": "ZEE5",
+    "category": "Video Streaming",
+    "description": "Zee Entertainment's streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_6881e50c2f871.webp"
+  },
+  {
+    "id": 12,
+    "name": "Amazon Prime Video",
+    "category": "Video Streaming",
+    "description": "Amazon's premium streaming service",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68714f5763bd3.webp"
+  },
+  {
+    "id": 13,
+    "name": "Crunchyroll",
+    "category": "Video Streaming",
+    "description": "Anime streaming platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687299e8b54f4.webp"
+  },
+  {
+    "id": 14,
+    "name": "Netflix mirror",
+    "category": "Video Streaming",
+    "description": "Alternative Netflix client",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68714c1eeeb94.webp"
+  },
+  {
+    "id": 15,
+    "name": "JioHotstar",
+    "category": "Video Streaming",
+    "description": "Disney+ Hotstar with Jio integration",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687220665cbc9.webp"
+  },
+  {
+    "id": 16,
+    "name": "TeaTV",
+    "category": "Video Streaming",
+    "description": "Free movie and TV show streaming",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_687669608c1cc.png"
+  },
+  {
+    "id": 17,
+    "name": "Dooflix",
+    "category": "Video Streaming",
+    "description": "Streaming app for movies and series",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68729ce828745.webp"
+  },
+  {
+    "id": 18,
+    "name": "Picasso: Live TV Movie & Show",
+    "category": "Video Streaming",
+    "description": "Live TV and on-demand content",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_686c1cafe5b35.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Disney+ Plus Alternative",
+    "category": "Video Streaming",
+    "description": "Alternative Disney+ streaming app",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68c45c76562ed.webp"
+  },
+  {
+    "id": 20,
+    "name": "MX Player",
+    "category": "Video Streaming",
+    "description": "Video player with streaming content",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68cae853cf2c9.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Toomics",
+    "category": "Video Streaming",
+    "description": "Webtoon and comic platform",
+    "isFeatured": true,
+    "price": "200 PKR",
+    "icon": "https://jollymod.com/assets/icon_68d826ced1723.jpg"
+    
+  }
+]

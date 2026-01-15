@@ -3,7 +3,7 @@ import { useId } from "react";
 
 export function FeaturesSectionDemo() {
   return (
-    <div className="py-6 lg:py-10 -mt-8 relative overflow-hidden">
+    <div className="py-6 lg:py-10 -mt-28 relative overflow-hidden">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 md:gap-2 max-w-7xl mx-auto">
         {grid.map((feature) => (
           <div
@@ -17,6 +17,13 @@ export function FeaturesSectionDemo() {
             <p className="text-neutral-600 dark:text-neutral-400 mt-4 text-base font-normal relative z-20">
               {feature.description}
             </p>
+            {feature.price && (
+              <div className="mt-4 relative z-20">
+                <span className="inline-block bg-red-500 hover:bg-red-600 text-white font-bold px-4 py-2 rounded-full text-sm">
+                  Rs. {feature.price}
+                </span>
+              </div>
+            )}
           </div>
         ))}
       </div>
@@ -26,44 +33,34 @@ export function FeaturesSectionDemo() {
 
 const grid = [
   {
-    title: "HIPAA and SOC2 Compliant",
+    title: "550+ PREMIUM COURSES",
     description:
-      "Our applications are HIPAA and SOC2 compliant, your data is safe with us, always.",
+      "Digital Marketing All Courses, Facebook Ads Paid Courses,Treading Premium Courses,Youtube Paid Courses,Freelancing All Courses,Real Money Making Courses.",
+    price: "199"
+  },
+  { 
+    price: "250",
+    title: "SOFTWARE",
+    description:
+      " Tiktok Followers/Likes Method,Adobe All Softwares, 150+Pc Premium Softwares, Andriod Premium Apps,CPM Software and MEthods,.",
   },
   {
-    title: "Automated Social Media Posting",
+    title: "16000+ PDF BOOKS",
     description:
-      "Schedule and automate your social media posts across multiple platforms to save time and maintain a consistent online presence.",
+      " UPDATES2026 MEGA DATA ENGLISH,URDU,BOOKS BUNDLES, Rich Dad Poor Dad,Zero to One,Mindset, Time Managment,Think Straight,+1000..,.",
+    price: "99"
   },
   {
-    title: "Advanced Analytics",
+    title: "170000+REELS",
     description:
-      "Gain insights into your social media performance with detailed analytics and reporting tools to measure engagement and ROI.",
+      "Perfect for your social media content,Islamic Reels Bundle,Motivational Reels,Quiz Videos,Movie Clips,Magic Reels Bundle,99+More Categories Of Reels Bundles.",
+    price: "149"
   },
   {
-    title: "Content Calendar",
+    title: "PREMIUM DATA",
     description:
-      "Plan and organize your social media content with an intuitive calendar view, ensuring you never miss a post.",
-  },
-  {
-    title: "Audience Targeting",
-    description:
-      "Reach the right audience with advanced targeting options, including demographics, interests, and behaviors.",
-  },
-  {
-    title: "Social Listening",
-    description:
-      "Monitor social media conversations and trends to stay informed about what your audience is saying and respond in real-time.",
-  },
-  {
-    title: "Customizable Templates",
-    description:
-      "Create stunning social media posts with our customizable templates, designed to fit your brand's unique style and voice.",
-  },
-  {
-    title: "Collaboration Tools",
-    description:
-      "Work seamlessly with your team using our collaboration tools, allowing you to assign tasks, share drafts, and provide feedback in real-time.",
+      "Biggest Graphic Bundles of all time, Youtube kit(Assets),lightroom Presets Collection,Video Editing Complete Bundles,1000+ Shopoify Themes All india/pakistan Database,WordPress Themes and Plugins.",
+    price: "399"
   },
 ];
 
@@ -122,14 +119,14 @@ export function GridPattern({ width, height, x, y, squares, ...props }: any) {
       />
       {squares && (
         <svg x={x} y={y} className="overflow-visible">
-          {squares.map(([x, y]: any) => (
+          {squares.map(([px, py]: any, idx: number) => (
             <rect
               strokeWidth="0"
-              key={`${x}-${y}`}
+              key={`square-${idx}`}
               width={width + 1}
               height={height + 1}
-              x={x * width}
-              y={y * height}
+              x={px * width}
+              y={py * height}
             />
           ))}
         </svg>

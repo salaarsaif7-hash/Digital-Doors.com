@@ -1,1216 +1,984 @@
-[
-  {
-    "id": 1,
-    "name": "HungamaOTT",
-    "category": "Streaming & Entertainment",
-    "description": "Watch movies, shows, and music videos online.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Hungama.png/220px-Hungama.png",
-    "platform": "Android",
-    "featured": true,
-    "price": "200",
-    "type": "Streaming App"
-  },
-  {
-    "id": 2,
-    "name": "Amazon Mini TV",
-    "category": "Streaming & Entertainment",
-    "description": "Free streaming of movies, shows, and originals.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 3,
-    "name": "Eroflix",
-    "category": "Streaming & Entertainment",
-    "description": "Adult streaming app for movies and videos.",
-    "icon": "https://example.com/eroflix.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 4,
-    "name": "DramaRush",
-    "category": "Streaming & Entertainment",
-    "description": "Stream latest drama series and TV shows.",
-    "icon": "https://example.com/dramarush.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 5,
-    "name": "SonyLIV",
-    "category": "Streaming & Entertainment",
-    "description": "Stream movies, live TV, and sports online.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/SonyLIV_logo.svg/220px-SonyLIV_logo.svg.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 6,
-    "name": "Cinema Vip Premium",
-    "category": "Streaming & Entertainment",
-    "description": "Premium movie streaming platform.",
-    "icon": "https://example.com/cinemavip.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 7,
-    "name": "FlixFox",
-    "category": "Streaming & Entertainment",
-    "description": "Watch movies and shows on demand.",
-    "icon": "https://example.com/flixfox.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 8,
-    "name": "MovieBox",
-    "category": "Streaming & Entertainment",
-    "description": "Online movie streaming in HD quality.",
-    "icon": "https://example.com/moviebox.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 9,
-    "name": "Cartoon TV App Hindi - XON",
-    "category": "Streaming & Entertainment",
-    "description": "Watch Hindi cartoons and animated shows.",
-    "icon": "https://example.com/cartoonxon.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 10,
-    "name": "JioCinema",
-    "category": "Streaming & Entertainment",
-    "description": "Movies, TV shows, and live TV streaming.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/JioCinema_logo.png/220px-JioCinema_logo.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 11,
-    "name": "ZEE5",
-    "category": "Streaming & Entertainment",
-    "description": "Watch Zee shows, movies, and originals online.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ZEE5_Logo.png/220px-ZEE5_Logo.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 12,
-    "name": "Amazon Prime Video",
-    "category": "Streaming & Entertainment",
-    "description": "Stream movies, web series, and Amazon Originals.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Prime_Video.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 13,
-    "name": "Crunchyroll",
-    "category": "Streaming & Entertainment",
-    "description": "Watch anime, manga, and Asian content online.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Crunchyroll_logo.svg",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 14,
-    "name": "Netflix",
-    "category": "Streaming & Entertainment",
-    "description": "Watch movies, TV shows, and original series in HD streaming.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 15,
-    "name": "JioHotstar",
-    "category": "Streaming & Entertainment",
-    "description": "Live sports, movies, and TV shows streaming platform.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Hotstar_logo.svg/220px-Hotstar_logo.svg.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 16,
-    "name": "TeaTV",
-    "category": "Streaming & Entertainment",
-    "description": "Free streaming of movies and TV shows.",
-    "icon": "https://example.com/teatv.png",
-    "featured": true,
-    "price": "200",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 17,
-    "name": "Dooflix",
-    "category": "Streaming & Entertainment",
-    "description": "Stream movies, shows, and series online.",
-    "icon": "https://example.com/dooflix.png",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 18,
-    "name": "Picasso: Live TV Movie & Show",
-    "category": "Streaming & Entertainment",
-    "description": "Watch live TV channels and movies.",
-    "icon": "https://example.com/picasso.png",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 19,
-    "name": "Disney+ Plus Alternative",
-    "category": "Streaming & Entertainment",
-    "description": "Stream Disney movies and series.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 20,
-    "name": "MX Player",
-    "category": "Streaming & Entertainment",
-    "description": "Stream movies, shows, and play local videos.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/1b/MX_Player_Logo.png",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 21,
-    "name": "Toomics",
-    "category": "Streaming & Entertainment",
-    "description": "Read webtoons, comics, and manga online.",
-    "icon": "https://example.com/toomics.png",
-    "platform": "Android",
-    "type": "Streaming App"
-  },
-  {
-    "id": 22,
-    "name": "Spotify",
-    "category": "Music & Audio",
-    "description": "Listen to millions of songs, podcasts, and playlists.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg",
-    "platform": "Android",
-    "type": "Music App"
-  },
-  {
-    "id": 23,
-    "name": "Spotify CLONE",
-    "category": "Music & Audio",
-    "description": "Clone of Spotify for music streaming.",
-    "icon": "https://example.com/spotifyclone.png",
-    "platform": "Android",
-    "type": "Music App"
-  },
-  {
-    "id": 24,
-    "name": "Audiomack",
-    "category": "Music & Audio",
-    "description": "Stream and download free music and mixtapes.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/6/62/Audiomack_logo.svg",
-    "platform": "Android",
-    "type": "Music App"
-  },
-  {
-    "id": 25,
-    "name": "Kuku FM",
-    "category": "Music & Audio",
-    "description": "Listen to audiobooks, podcasts, and stories.",
-    "icon": "https://example.com/kukufm.png",
-    "platform": "Android",
-    "type": "Music App"
-  },
-  {
-    "id": 26,
-    "name": "Lark Player",
-    "category": "Music & Audio",
-    "description": "Play music and videos with advanced features.",
-    "icon": "https://example.com/larkplayer.png",
-    "platform": "Android",
-    "type": "Music App"
-  },
-  {
-    "id": 27,
-    "name": "KineMaster",
-    "category": "Video Editing",
-    "description": "Professional video editing with effects, layers, and transitions.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4a/KineMaster_logo.png",
-    "platform": "Android",
-    "type": "Video Editor"
-  },
-  {
-    "id": 28,
-    "name": "VN Video Editor",
-    "category": "Video Editing",
-    "description": "Free video editing tool with multi-layer editing support.",
-    "icon": "https://example.com/vnvideo.png",
-    "platform": "Android",
-    "type": "Video Editor"
-  },
-  {
-    "id": 29,
-    "name": "InStories",
-    "category": "Video Editing",
-    "description": "Create videos and stories for Instagram and social media.",
-    "icon": "https://example.com/instories.png",
-    "platform": "Android",
-    "type": "Video Editor"
-  },
-  {
-    "id": 30,
-    "name": "CapCut",
-    "category": "Video Editing",
-    "description": "Professional video editor with effects, filters, and transitions.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/CapCut_Logo.png",
-    "platform": "Android",
-    "type": "Video Editor"
-  },
-
-  {
-    "id": 31,
-    "name": "PhotoRoom",
-    "category": "Photo Editing & AI Art",
-    "description": "Remove backgrounds and create professional photos easily.",
-    "icon": "https://example.com/photoroom.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 32,
-    "name": "PicWish",
-    "category": "Photo Editing & AI Art",
-    "description": "AI-powered photo background remover and enhancer.",
-    "icon": "https://example.com/picwish.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 33,
-    "name": "LightX",
-    "category": "Photo Editing & AI Art",
-    "description": "Professional photo editor with filters and effects.",
-    "icon": "https://example.com/lightx.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 34,
-    "name": "AI Morph",
-    "category": "Photo Editing & AI Art",
-    "description": "Transform photos into AI-generated art.",
-    "icon": "https://example.com/aimorph.png",
-    "platform": "Android",
-    "type": "AI Art"
-  },
-  {
-    "id": 35,
-    "name": "Genius Art",
-    "category": "Photo Editing & AI Art",
-    "description": "Create stunning AI art and portraits.",
-    "icon": "https://example.com/geniusart.png",
-    "platform": "Android",
-    "type": "AI Art"
-  },
-  {
-    "id": 36,
-    "name": "Prisma AI",
-    "category": "Photo Editing & AI Art",
-    "description": "Transform your photos into artwork using AI.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/6/64/Prisma_logo.png",
-    "platform": "Android",
-    "type": "AI Art"
-  },
-  {
-    "id": 37,
-    "name": "AIFoto",
-    "category": "Photo Editing & AI Art",
-    "description": "AI photo editor for creative designs.",
-    "icon": "https://example.com/aifoto.png",
-    "platform": "Android",
-    "type": "AI Art"
-  },
-  {
-    "id": 38,
-    "name": "Dreamify",
-    "category": "Photo Editing & AI Art",
-    "description": "Turn photos into dreamlike AI artworks.",
-    "icon": "https://example.com/dreamify.png",
-    "platform": "Android",
-    "type": "AI Art"
-  },
-  {
-    "id": 39,
-    "name": "Photo Lab Pro",
-    "category": "Photo Editing & AI Art",
-    "description": "Photo effects, frames, filters and montages.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/3/3b/Photo_Lab_logo.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 40,
-    "name": "Remini",
-    "category": "Photo Editing & AI Art",
-    "description": "Enhance old, blurry, or low-quality photos using AI.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/2/27/Remini_logo.png",
-    "platform": "Android",
-    "type": "AI Photo Enhancer"
-  },
-  {
-    "id": 41,
-    "name": "PicsArt",
-    "category": "Photo Editing & AI Art",
-    "description": "Create and edit photos, collages, and videos.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/53/Picsart_logo.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 42,
-    "name": "EPIK",
-    "category": "Photo Editing & AI Art",
-    "description": "AI-powered creative photo editor.",
-    "icon": "https://example.com/epik.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 43,
-    "name": "Sweet Selfie",
-    "category": "Photo Editing & AI Art",
-    "description": "Beautify selfies with filters and effects.",
-    "icon": "https://example.com/sweetselfie.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 44,
-    "name": "DreamFace AI Video Generator",
-    "category": "Photo Editing & AI Art",
-    "description": "Generate AI-powered face videos.",
-    "icon": "https://example.com/dreamface.png",
-    "platform": "Android",
-    "type": "AI Video Generator"
-  },
-  {
-    "id": 45,
-    "name": "Pixelcut",
-    "category": "Photo Editing & AI Art",
-    "description": "Create professional photos and videos quickly.",
-    "icon": "https://example.com/pixelcut.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 46,
-    "name": "Adobe Lightroom",
-    "category": "Photo Editing & AI Art",
-    "description": "Professional photo editor with advanced tools.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Adobe_Photoshop_Lightroom_CC_icon.svg",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 47,
-    "name": "ibis Paint X",
-    "category": "Photo Editing & AI Art",
-    "description": "Draw and paint with professional tools.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/5/54/IbisPaintX_logo.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 48,
-    "name": "Face Over",
-    "category": "Photo Editing & AI Art",
-    "description": "Replace faces in photos and videos.",
-    "icon": "https://example.com/faceover.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 49,
-    "name": "Concepts",
-    "category": "Photo Editing & AI Art",
-    "description": "Professional sketching and design app.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/e/e0/Concepts_logo.png",
-    "platform": "Android",
-    "type": "Drawing & Design"
-  },
-  {
-    "id": 50,
-    "name": "AI Chat Smith",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI chatbot for assistance and conversations.",
-    "icon": "https://example.com/aichatsmith.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 51,
-    "name": "Question.AI",
-    "category": "AI Assistants & Chatbots",
-    "description": "Answer questions using AI.",
-    "icon": "https://example.com/questionai.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 52,
-    "name": "Nerd AI",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI assistant for learning and productivity.",
-    "icon": "https://example.com/nerdai.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 53,
-    "name": "Umagic AI",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI chatbot for daily tasks and queries.",
-    "icon": "https://example.com/umagicai.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 54,
-    "name": "ChatGPT Premium",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI-powered chatbot for writing, coding, and problem solving.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 55,
-    "name": "DeepAsk AI assistant pro",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI assistant for questions, tasks, and research.",
-    "icon": "https://example.com/deepask.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 56,
-    "name": "AI Chat",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI-powered chat for everyday tasks.",
-    "icon": "https://example.com/aichat.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 57,
-    "name": "Chat AI: AI Chat Bot Assistant",
-    "category": "AI Assistants & Chatbots",
-    "description": "Chat with AI assistant for learning and fun.",
-    "icon": "https://example.com/chatai.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-  {
-    "id": 58,
-    "name": "ChatGPT Ghibli",
-    "category": "AI Assistants & Chatbots",
-    "description": "AI chatbot inspired by Studio Ghibli style.",
-    "icon": "https://example.com/ghibli.png",
-    "platform": "Android",
-    "type": "AI Assistant"
-  },
-
-  {
-    "id": 59,
-    "name": "TikTok",
-    "category": "Social Media",
-    "description": "Create and watch short videos online.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/TikTok_logo.svg/1200px-TikTok_logo.svg.png",
-    "platform": "Android",
-    "type": "Social Media"
-  },
-  {
-    "id": 60,
-    "name": "Instagram",
-    "category": "Social Media",
-    "description": "Share photos, videos, and stories with friends.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg",
-    "platform": "Android",
-    "type": "Social Media"
-  },
-  {
-    "id": 61,
-    "name": "ShareChat",
-    "category": "Social Media",
-    "description": "Indian social media platform for sharing videos and messages.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/ShareChat_logo.png/220px-ShareChat_logo.png",
-    "platform": "Android",
-    "type": "Social Media"
-  },
-  {
-    "id": 62,
-    "name": "Nicegram",
-    "category": "Social Media",
-    "description": "Secure messaging app with Telegram features.",
-    "icon": "https://example.com/nicegram.png",
-    "platform": "Android",
-    "type": "Messaging"
-  },
-  {
-    "id": 63,
-    "name": "Telegram Premium",
-    "category": "Social Media",
-    "description": "Faster messaging with extra features and unlimited storage.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg",
-    "platform": "Android",
-    "type": "Messaging"
-  },
-  {
-    "id": 64,
-    "name": "Turbo VPN Premium",
-    "category": "VPN & Security",
-    "description": "Secure VPN with fast connection.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Turbo_VPN_logo.png/220px-Turbo_VPN_logo.png",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 65,
-    "name": "1.1.1.1 + WARP",
-    "category": "VPN & Security",
-    "description": "Secure DNS and VPN service.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/4f/1.1.1.1_logo.png",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 66,
-    "name": "ExpressVPN",
-    "category": "VPN & Security",
-    "description": "High-speed VPN service for privacy and security.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/7/7f/ExpressVPN_logo.png",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 67,
-    "name": "Proton VPN",
-    "category": "VPN & Security",
-    "description": "Encrypted VPN for secure browsing.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/ProtonVPN_logo.svg",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 68,
-    "name": "Panda VPN",
-    "category": "VPN & Security",
-    "description": "Free VPN for private browsing.",
-    "icon": "https://example.com/pandavpn.png",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 69,
-    "name": "Melon VPN",
-    "category": "VPN & Security",
-    "description": "Secure VPN service for mobile users.",
-    "icon": "https://example.com/melonnvpn.png",
-    "platform": "Android",
-    "type": "VPN"
-  },
-  {
-    "id": 70,
-    "name": "AdGuard",
-    "category": "VPN & Security",
-    "description": "Ad blocker and VPN for privacy.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/AdGuard_Logo.png/220px-AdGuard_Logo.png",
-    "platform": "Android",
-    "type": "Security"
-  },
-  {
-    "id": 71,
-    "name": "WPS Office",
-    "category": "Productivity & Office",
-    "description": "All-in-one office suite for documents, spreadsheets, and presentations.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/4/43/WPS_Office_logo.png",
-    "platform": "Android",
-    "type": "Office"
-  },
-  {
-    "id": 72,
-    "name": "Xodo PDF",
-    "category": "Productivity & Office",
-    "description": "Edit, annotate, and sign PDFs.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Xodo_Logo.png/220px-Xodo_Logo.png",
-    "platform": "Android",
-    "type": "PDF Editor"
-  },
-  {
-    "id": 73,
-    "name": "iLovePDF",
-    "category": "Productivity & Office",
-    "description": "PDF tools for editing, merging, splitting, and converting.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/iLovePDF_logo.png/220px-iLovePDF_logo.png",
-    "platform": "Android",
-    "type": "PDF Editor"
-  },
-  {
-    "id": 74,
-    "name": "CamScanner",
-    "category": "Productivity & Office",
-    "description": "Scan, store, and share documents in PDF format.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/CamScanner_logo.png/220px-CamScanner_logo.png",
-    "platform": "Android",
-    "type": "Scanner"
-  },
-  {
-    "id": 75,
-    "name": "NP Manager",
-    "category": "Productivity & Office",
-    "description": "File and task manager for productivity.",
-    "icon": "https://example.com/npmanager.png",
-    "platform": "Android",
-    "type": "File Manager"
-  },
-  {
-    "id": 76,
-    "name": "91Club",
-    "category": "Gaming & Gambling",
-    "description": "Online gaming and casino platform.",
-    "icon": "https://example.com/91club.png",
-    "platform": "Android",
-    "type": "Gaming"
-  },
-  {
-    "id": 77,
-    "name": "Big Daddy",
-    "category": "Gaming & Gambling",
-    "description": "Casino games and online betting app.",
-    "icon": "https://example.com/bigdaddy.png",
-    "platform": "Android",
-    "type": "Gaming"
-  },
-  {
-    "id": 78,
-    "name": "castle",
-    "category": "Gaming & Gambling",
-    "description": "Online strategy and casino games.",
-    "icon": "https://example.com/castle.png",
-    "platform": "Android",
-    "type": "Gaming"
-  },
-  {
-    "id": 79,
-    "name": "82 Server Hack",
-    "category": "Gaming & Gambling",
-    "description": "Hack tool for gaming servers (use at your own risk).",
-    "icon": "https://example.com/82serverhack.png",
-    "platform": "Android",
-    "type": "Hack Tool"
-  },
-  {
-    "id": 80,
-    "name": "Jalwa Game",
-    "category": "Gaming & Gambling",
-    "description": "Fun casino and gambling app.",
-    "icon": "https://example.com/jalwagame.png",
-    "platform": "Android",
-    "type": "Gaming"
-  },
-  {
-    "id": 81,
-    "name": "55Club Premium Hack",
-    "category": "Gaming & Gambling",
-    "description": "Hack app for 55Club Premium games.",
-    "icon": "https://example.com/55clubhack.png",
-    "platform": "Android",
-    "type": "Hack Tool"
-  },
-  {
-    "id": 82,
-    "name": "GPay",
-    "category": "Finance & Payment",
-    "description": "Send money, pay bills, and manage finances.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/59/Google_Pay_Logo.svg",
-    "platform": "Android",
-    "type": "Payment"
-  },
-  {
-    "id": 83,
-    "name": "Paytm fake screenshot generator",
-    "category": "Finance & Payment",
-    "description": "Create fake Paytm screenshots for demonstration purposes.",
-    "icon": "https://example.com/paytmfake.png",
-    "platform": "Android",
-    "type": "Finance Tool"
-  },
-  {
-    "id": 84,
-    "name": "rechargeapk",
-    "category": "Finance & Payment",
-    "description": "Mobile recharge and top-up app.",
-    "icon": "https://example.com/rechargeapk.png",
-    "platform": "Android",
-    "type": "Payment"
-  },
-  {
-    "id": 85,
-    "name": "Duolingo",
-    "category": "Education & Learning",
-    "description": "Learn languages with fun exercises.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Duolingo_Logo.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 86,
-    "name": "Speak English with Loora AI",
-    "category": "Education & Learning",
-    "description": "AI-powered English speaking practice app.",
-    "icon": "https://example.com/looraai.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 87,
-    "name": "Programming Hub",
-    "category": "Education & Learning",
-    "description": "Learn programming and coding skills.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/6/6a/Programming_Hub_logo.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 88,
-    "name": "Headway",
-    "category": "Education & Learning",
-    "description": "Learn key insights from popular books.",
-    "icon": "https://example.com/headway.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 89,
-    "name": "Busuu",
-    "category": "Education & Learning",
-    "description": "Learn languages online with interactive lessons.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Busuu_logo.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 90,
-    "name": "Elevate",
-    "category": "Education & Learning",
-    "description": "Brain training and learning app.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Elevate_Logo.png/220px-Elevate_Logo.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 91,
-    "name": "Brainly",
-    "category": "Education & Learning",
-    "description": "Homework help and study community.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/2/25/Brainly_logo.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 92,
-    "name": "Vedu App",
-    "category": "Education & Learning",
-    "description": "Learn with live online classes.",
-    "icon": "https://example.com/veduapp.png",
-    "platform": "Android",
-    "type": "Education"
-  },
-  {
-    "id": 93,
-    "name": "Home Workout",
-    "category": "Health & Fitness",
-    "description": "Daily workout routines at home.",
-    "icon": "https://example.com/homeworkout.png",
-    "platform": "Android",
-    "type": "Fitness"
-  },
-  {
-    "id": 94,
-    "name": "Sleep",
-    "category": "Health & Fitness",
-    "description": "Sleep tracking and relaxation app.",
-    "icon": "https://example.com/sleepapp.png",
-    "platform": "Android",
-    "type": "Health"
-  },
-  {
-    "id": 95,
-    "name": "Play Store",
-    "category": "Utilities & Tools",
-    "description": "Google Play Store for apps and games.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg",
-    "platform": "Android",
-    "type": "Store"
-  },
-  {
-    "id": 96,
-    "name": "Fake id",
-    "category": "Utilities & Tools",
-    "description": "Generate fake IDs for testing purposes.",
-    "icon": "https://example.com/fakeid.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 97,
-    "name": "Voice Changer",
-    "category": "Utilities & Tools",
-    "description": "Change your voice in real-time.",
-    "icon": "https://example.com/voicechanger.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 98,
-    "name": "Temp Mail",
-    "category": "Utilities & Tools",
-    "description": "Create temporary email addresses.",
-    "icon": "https://example.com/tempmail.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 99,
-    "name": "Clone App",
-    "category": "Utilities & Tools",
-    "description": "Clone apps and run multiple accounts.",
-    "icon": "https://example.com/cloneapp.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 100,
-    "name": "Utool",
-    "category": "Utilities & Tools",
-    "description": "Collection of useful tools for Android.",
-    "icon": "https://example.com/utool.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 101,
-    "name": "Wallcraft",
-    "category": "Utilities & Tools",
-    "description": "High-quality wallpapers for mobile devices.",
-    "icon": "https://example.com/wallcraft.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 102,
-    "name": "AG Auto Clicker",
-    "category": "Utilities & Tools",
-    "description": "Automate clicks on your device.",
-    "icon": "https://example.com/agautoclicker.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 103,
-    "name": "Whatauto",
-    "category": "Utilities & Tools",
-    "description": "Auto reply and automation for WhatsApp.",
-    "icon": "https://example.com/whatauto.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 104,
-    "name": "BitTorrent",
-    "category": "Utilities & Tools",
-    "description": "Download files via torrents.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Bittorrent_logo.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 105,
-    "name": "Terabox",
-    "category": "Utilities & Tools",
-    "description": "Cloud storage and backup solution.",
-    "icon": "https://example.com/terabox.png",
-    "platform": "Android",
-    "type": "Cloud Storage"
-  },
-  {
-    "id": 106,
-    "name": "SD Maid SE",
-    "category": "Utilities & Tools",
-    "description": "Clean and optimize your device storage.",
-    "icon": "https://example.com/sdmaid.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 107,
-    "name": "Smart Launcher",
-    "category": "Utilities & Tools",
-    "description": "Custom launcher for Android with features and themes.",
-    "icon": "https://example.com/smartlauncher.png",
-    "platform": "Android",
-    "type": "Launcher"
-  },
-  {
-    "id": 108,
-    "name": "Niagara Launcher",
-    "category": "Utilities & Tools",
-    "description": "Minimalist Android launcher with fast access.",
-    "icon": "https://example.com/niagaralauncher.png",
-    "platform": "Android",
-    "type": "Launcher"
-  },
-  {
-    "id": 109,
-    "name": "Truecaller: Caller ID & Block",
-    "category": "Communication & Calling",
-    "description": "Identify unknown callers and block spam.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Truecaller_Logo.png",
-    "platform": "Android",
-    "type": "Communication"
-  },
-  {
-    "id": 110,
-    "name": "Red Flash Bomber",
-    "category": "Communication & Calling",
-    "description": "Fun messaging and prank calling app.",
-    "icon": "https://example.com/redflash.png",
-    "platform": "Android",
-    "type": "Communication"
-  },
-  {
-    "id": 111,
-    "name": "MAXX Number Hack",
-    "category": "Communication & Calling",
-    "description": "Tool to simulate or hack numbers for testing (use responsibly).",
-    "icon": "https://example.com/maxxnumber.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 112,
-    "name": "Zapya",
-    "category": "File Sharing & Download",
-    "description": "Share files between devices without internet.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Zapya_logo.png/220px-Zapya_logo.png",
-    "platform": "Android",
-    "type": "File Sharing"
-  },
-  {
-    "id": 113,
-    "name": "SHAREit",
-    "category": "File Sharing & Download",
-    "description": "Transfer files quickly between devices.",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/5/51/SHAREit_logo.png",
-    "platform": "Android",
-    "type": "File Sharing"
-  },
-  {
-    "id": 114,
-    "name": "Snaptube",
-    "category": "File Sharing & Download",
-    "description": "Download videos from YouTube and social media.",
-    "icon": "https://example.com/snaptube.png",
-    "platform": "Android",
-    "type": "Download"
-  },
-  {
-    "id": 115,
-    "name": "PLAYit",
-    "category": "File Sharing & Download",
-    "description": "Video player and downloader app.",
-    "icon": "https://example.com/playit.png",
-    "platform": "Android",
-    "type": "Download"
-  },
-  {
-    "id": 116,
-    "name": "Tinder Gold",
-    "category": "Dating",
-    "description": "Premium features for dating and matching.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Tinder_logo.svg/1200px-Tinder_logo.svg.png",
-    "platform": "Android",
-    "type": "Dating"
-  },
-  {
-    "id": 117,
-    "name": "Benime",
-    "category": "Animation & Creative",
-    "description": "Create animated videos and characters.",
-    "icon": "https://example.com/benime.png",
-    "platform": "Android",
-    "type": "Animation"
-  },
-  {
-    "id": 118,
-    "name": "ToonApp",
-    "category": "Animation & Creative",
-    "description": "Turn your photos into cartoons.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/1/12/ToonApp_logo.png",
-    "platform": "Android",
-    "type": "Animation"
-  },
-  {
-    "id": 119,
-    "name": "Special effect",
-    "category": "Animation & Creative",
-    "description": "Add special effects to photos and videos.",
-    "icon": "https://example.com/specialeffect.png",
-    "platform": "Android",
-    "type": "Creative"
-  },
-  {
-    "id": 120,
-    "name": "Daily Expenses 3",
-    "category": "Finance Management",
-    "description": "Track your daily expenses and budget.",
-    "icon": "https://example.com/dailyexpenses.png",
-    "platform": "Android",
-    "type": "Finance"
-  },
-  {
-    "id": 121,
-    "name": "Ultimate Facts",
-    "category": "News & Information",
-    "description": "Daily facts, trivia, and interesting information.",
-    "icon": "https://example.com/ultimatefacts.png",
-    "platform": "Android",
-    "type": "News"
-  },
-  {
-    "id": 122,
-    "name": "Sofascore",
-    "category": "News & Information",
-    "description": "Live scores, stats, and sports news.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sofascore_logo.png/220px-Sofascore_logo.png",
-    "platform": "Android",
-    "type": "Sports"
-  },
-  {
-    "id": 123,
-    "name": "365Scores",
-    "category": "News & Information",
-    "description": "Real-time scores, news, and updates for sports fans.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/365scores_logo.png/220px-365scores_logo.png",
-    "platform": "Android",
-    "type": "Sports"
-  },
-  {
-    "id": 124,
-    "name": "Pixiv",
-    "category": "Others",
-    "description": "Art community for artists to share their work.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pixiv_logo.png/220px-Pixiv_logo.png",
-    "platform": "Android",
-    "type": "Community"
-  },
-  {
-    "id": 125,
-    "name": "RUTUBE",
-    "category": "Others",
-    "description": "Russian video streaming platform.",
-    "icon": "https://upload.wikimedia.org/wikipedia/en/5/57/Rutube_logo.png",
-    "platform": "Android",
-    "type": "Streaming"
-  },
-  {
-    "id": 126,
-    "name": "CRICFy",
-    "category": "Others",
-    "description": "Live cricket scores and updates.",
-    "icon": "https://example.com/cricfy.png",
-    "platform": "Android",
-    "type": "Sports"
-  },
-  {
-    "id": 127,
-    "name": "Cricket Line Guru",
-    "category": "Others",
-    "description": "Live cricket scores, news, and updates.",
-    "icon": "https://example.com/cricketlineguru.png",
-    "platform": "Android",
-    "type": "Sports"
-  },
-  {
-    "id": 128,
-    "name": "Peachy",
-    "category": "Others",
-    "description": "Photo editing and beauty enhancement app.",
-    "icon": "https://example.com/peachy.png",
-    "platform": "Android",
-    "type": "Photo Editor"
-  },
-  {
-    "id": 129,
-    "name": "chanderi",
-    "category": "Others",
-    "description": "Miscellaneous utility app for Android.",
-    "icon": "https://example.com/chanderi.png",
-    "platform": "Android",
-    "type": "Utility"
-  },
-  {
-    "id": 130,
-    "name": "Studi",
-    "category": "Others",
-    "description": "Video editing and content creation app.",
-    "icon": "https://example.com/studi.png",
-    "platform": "Android",
-    "type": "Creative"
-  },
-  {
-    "id": 131,
-    "name": "ShortPlay",
-    "category": "Others",
-    "description": "Short video content platform.",
-    "icon": "https://example.com/shortplay.png",
-    "platform": "Android",
-    "type": "Streaming"
-  }
-]
-
+   [
+    {
+      "id": 22,
+      "name": "Spotify",
+      "category": "Music & Audio",
+      "description": "Music streaming service",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/spotify.png"
+    },
+    {
+      "id": 23,
+      "name": "Spotify CLONE",
+      "category": "Music & Audio",
+      "description": "Spotify alternative app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/spotify-clone.png"
+    },
+    {
+      "id": 24,
+      "name": "Audiomack",
+      "category": "Music & Audio",
+      "description": "Free music streaming and discovery",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/audiomack.png"
+    },
+    {
+      "id": 25,
+      "name": "Kuku FM",
+      "category": "Music & Audio",
+      "description": "Audio stories and podcasts in Indian languages",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/kukufm.png"
+    },
+    {
+      "id": 26,
+      "name": "Lark Player",
+      "category": "Music & Audio",
+      "description": "Music and video player",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/lark-player.png"
+    },
+    {
+      "id": 27,
+      "name": "KineMaster",
+      "category": "Video Editing",
+      "description": "Professional video editing app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/kinemaster.png"
+    },
+    {
+      "id": 28,
+      "name": "VN Video Editor",
+      "category": "Video Editing",
+      "description": "Easy-to-use video editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/vn-video.png"
+    },
+    {
+      "id": 29,
+      "name": "InStories",
+      "category": "Video Editing",
+      "description": "Instagram story maker and editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/instories.png"
+    },
+    {
+      "id": 30,
+      "name": "CapCut",
+      "category": "Video Editing",
+      "description": "TikTok's official video editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/capcut.png"
+    },
+    {
+      "id": 31,
+      "name": "YouCut",
+      "category": "Video Editing",
+      "description": "Video editor with no watermark",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/youcut.png"
+    },
+    {
+      "id": 32,
+      "name": "VivaCut",
+      "category": "Video Editing",
+      "description": "Pro video editor for creators",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/vivacut.png"
+    },
+    {
+      "id": 33,
+      "name": "Shot Short",
+      "category": "Video Editing",
+      "description": "Short video editing tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/shot-short.png"
+    },
+    {
+      "id": 34,
+      "name": "VivaVideo Pro",
+      "category": "Video Editing",
+      "description": "Advanced video editing application",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/vivavideo-pro.png"
+    },
+    {
+      "id": 35,
+      "name": "PowerDirector",
+      "category": "Video Editing",
+      "description": "Professional-grade video editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/powerdirector.png"
+    },
+    {
+      "id": 36,
+      "name": "InShot Pro",
+      "category": "Video Editing",
+      "description": "Popular mobile video editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/inshot-pro.png"
+    },
+    {
+      "id": 37,
+      "name": "Filmora",
+      "category": "Video Editing",
+      "description": "Easy video editing software",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/filmora.png"
+    },
+    {
+      "id": 38,
+      "name": "PhotoRoom",
+      "category": "Photo Editing & AI Art",
+      "description": "Background removal and photo editing",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/photoroom.png"
+    },
+    {
+      "id": 39,
+      "name": "PicWish",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo editor and enhancer",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/picwish.png"
+    },
+    {
+      "id": 40,
+      "name": "LightX",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo editor with advanced features",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/lightx.png"
+    },
+    {
+      "id": 41,
+      "name": "AI Morph",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered face morphing app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/ai-morph.png"
+    },
+    {
+      "id": 42,
+      "name": "Genius Art",
+      "category": "Photo Editing & AI Art",
+      "description": "AI art generator",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/genius-art.png"
+    },
+    {
+      "id": 43,
+      "name": "Prisma AI",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo effects and filters",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/prisma-ai.png"
+    },
+    {
+      "id": 44,
+      "name": "AIFoto",
+      "category": "Photo Editing & AI Art",
+      "description": "AI-powered photo enhancement",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/aifoto.png"
+    },
+    {
+      "id": 45,
+      "name": "Dreamify",
+      "category": "Photo Editing & AI Art",
+      "description": "Dream-like AI art creation",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/dreamify.png"
+    },
+    {
+      "id": 46,
+      "name": "Photo Lab Pro",
+      "category": "Photo Editing & AI Art",
+      "description": "Professional photo editing lab",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/photo-lab-pro.png"
+    },
+    {
+      "id": 47,
+      "name": "Photo Lab",
+      "category": "Photo Editing & AI Art",
+      "description": "Photo effects and editing tools",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/photo-lab.png"
+    },
+    {
+      "id": 48,
+      "name": "Remini",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo enhancer and upscaler",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/remini.png"
+    },
+    {
+      "id": 49,
+      "name": "PicsArt",
+      "category": "Photo Editing & AI Art",
+      "description": "All-in-one photo and video editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/picsart.png"
+    },
+    {
+      "id": 50,
+      "name": "EPIK",
+      "category": "Photo Editing & AI Art",
+      "description": "AI photo editor with filters",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/epik.png"
+    },
+    {
+      "id": 51,
+      "name": "Sweet Selfie",
+      "category": "Photo Editing & AI Art",
+      "description": "Selfie editor and beautifier",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/sweet-selfie.png"
+    },
+    {
+      "id": 52,
+      "name": "DreamFace AI Video Generator",
+      "category": "Photo Editing & AI Art",
+      "description": "AI video generation from photos",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/dreamface.png"
+    },
+    {
+      "id": 53,
+      "name": "Pixelcut",
+      "category": "Photo Editing & AI Art",
+      "description": "Background remover and editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/pixelcut.png"
+    },
+    {
+      "id": 54,
+      "name": "Adobe Lightroom",
+      "category": "Photo Editing & AI Art",
+      "description": "Professional photo editing",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/lightroom.png"
+    },
+    {
+      "id": 55,
+      "name": "ibis Paint X",
+      "category": "Photo Editing & AI Art",
+      "description": "Drawing and painting app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/ibis-paint.png"
+    },
+    {
+      "id": 56,
+      "name": "Face Over",
+      "category": "Photo Editing & AI Art",
+      "description": "Face swap and editing app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/face-over.png"
+    },
+    {
+      "id": 57,
+      "name": "Concepts",
+      "category": "Photo Editing & AI Art",
+      "description": "Sketching and design app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/concepts.png"
+    },
+    
+    {
+      "id": 71,
+      "name": "TikTok",
+      "category": "Social Media",
+      "description": "Short-form video platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/tiktok.png"
+    },
+    {
+      "id": 72,
+      "name": "Instagram",
+      "category": "Social Media",
+      "description": "Photo and video sharing app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/instagram.png"
+    },
+    {
+      "id": 73,
+      "name": "ShareChat",
+      "category": "Social Media",
+      "description": "Indian regional social media",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/sharechat.png"
+    },
+    {
+      "id": 74,
+      "name": "Nicegram",
+      "category": "Social Media",
+      "description": "Enhanced Telegram client",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/nicegram.png"
+    },
+    {
+      "id": 75,
+      "name": "Telegram Premium",
+      "category": "Social Media",
+      "description": "Premium version of Telegram",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/telegram-premium.png"
+    },
+    {
+      "id": 76,
+      "name": "Turbo VPN Premium",
+      "category": "VPN & Security",
+      "description": "Premium VPN service",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/turbo-vpn.png"
+    },
+    {
+      "id": 77,
+      "name": "1.1.1.1 + WARP",
+      "category": "VPN & Security",
+      "description": "Cloudflare's VPN and DNS service",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/warp.png"
+    },
+    {
+      "id": 78,
+      "name": "ExpressVPN",
+      "category": "VPN & Security",
+      "description": "Premium VPN provider",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/expressvpn.png"
+    },
+    {
+      "id": 79,
+      "name": "Proton VPN",
+      "category": "VPN & Security",
+      "description": "Secure VPN with privacy focus",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/proton-vpn.png"
+    },
+    {
+      "id": 80,
+      "name": "Panda VPN",
+      "category": "VPN & Security",
+      "description": "VPN service with global servers",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/panda-vpn.png"
+    },
+    {
+      "id": 81,
+      "name": "Melon VPN",
+      "category": "VPN & Security",
+      "description": "Free VPN application",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/melon-vpn.png"
+    },
+    {
+      "id": 82,
+      "name": "AdGuard",
+      "category": "VPN & Security",
+      "description": "Ad blocker and privacy tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/adguard.png"
+    },
+    {
+      "id": 83,
+      "name": "WPS Office",
+      "category": "Productivity & Office",
+      "description": "Office suite for mobile",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/wps-office.png"
+    },
+    {
+      "id": 84,
+      "name": "Xodo PDF",
+      "category": "Productivity & Office",
+      "description": "PDF reader and editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/xodo-pdf.png"
+    },
+    {
+      "id": 85,
+      "name": "iLovePDF",
+      "category": "Productivity & Office",
+      "description": "PDF editing and conversion tools",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/ilovepdf.png"
+    },
+    {
+      "id": 86,
+      "name": "CamScanner",
+      "category": "Productivity & Office",
+      "description": "Document scanning app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/camscanner.png"
+    },
+    {
+      "id": 87,
+      "name": "NP Manager",
+      "category": "Productivity & Office",
+      "description": "APK manager and editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/np-manager.png"
+    },
+    {
+      "id": 88,
+      "name": "91Club",
+      "category": "Gaming & Gambling",
+      "description": "Gaming and betting platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/91club.png"
+    },
+    {
+      "id": 89,
+      "name": "Big Daddy",
+      "category": "Gaming & Gambling",
+      "description": "Gaming app with rewards",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/big-daddy.png"
+    },
+    {
+      "id": 90,
+      "name": "castle",
+      "category": "Gaming & Gambling",
+      "description": "Gaming platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/castle.png"
+    },
+    {
+      "id": 91,
+      "name": "82 Server Hack",
+      "category": "Gaming & Gambling",
+      "description": "Gaming hack tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/82-server.png"
+    },
+    {
+      "id": 92,
+      "name": "Jalwa Game",
+      "category": "Gaming & Gambling",
+      "description": "Indian gaming app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/jalwa-game.png"
+    },
+    {
+      "id": 93,
+      "name": "55Club Premium Hack",
+      "category": "Gaming & Gambling",
+      "description": "Premium gaming hack",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/55club.png"
+    },
+    {
+      "id": 94,
+      "name": "GPay",
+      "category": "Finance & Payment",
+      "description": "Google's payment app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/gpay.png"
+    },
+    {
+      "id": 95,
+      "name": "Paytm fake screenshot generator",
+      "category": "Finance & Payment",
+      "description": "Fake payment proof generator",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/paytm-fake.png"
+    },
+    {
+      "id": 96,
+      "name": "rechargeapk",
+      "category": "Finance & Payment",
+      "description": "Mobile recharge application",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/rechargeapk.png"
+    },
+    {
+      "id": 97,
+      "name": "Duolingo",
+      "category": "Education & Learning",
+      "description": "Language learning app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/duolingo.png"
+    },
+    {
+      "id": 98,
+      "name": "Speak English with Loora AI",
+      "category": "Education & Learning",
+      "description": "AI English speaking tutor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/loora-ai.png"
+    },
+    {
+      "id": 99,
+      "name": "Programming Hub",
+      "category": "Education & Learning",
+      "description": "Learn programming languages",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/programming-hub.png"
+    },
+    {
+      "id": 100,
+      "name": "Headway",
+      "category": "Education & Learning",
+      "description": "Book summaries and learning",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/headway.png"
+    },
+    {
+      "id": 101,
+      "name": "Busuu",
+      "category": "Education & Learning",
+      "description": "Language learning community",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/busuu.png"
+    },
+    {
+      "id": 102,
+      "name": "Elevate",
+      "category": "Education & Learning",
+      "description": "Brain training and cognitive skills",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/elevate.png"
+    },
+    {
+      "id": 103,
+      "name": "Brainly",
+      "category": "Education & Learning",
+      "description": "Homework help and Q&A platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/brainly.png"
+    },
+    {
+      "id": 104,
+      "name": "Vedu App",
+      "category": "Education & Learning",
+      "description": "Educational video platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/vedu-app.png"
+    },
+    {
+      "id": 105,
+      "name": "Home Workout",
+      "category": "Health & Fitness",
+      "description": "Home exercise routines",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/home-workout.png"
+    },
+    {
+      "id": 106,
+      "name": "Sleep",
+      "category": "Health & Fitness",
+      "description": "Sleep tracking and improvement",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/sleep.png"
+    },
+    {
+      "id": 107,
+      "name": "Play Store",
+      "category": "Utilities & Tools",
+      "description": "Google Play Store app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/play-store.png"
+    },
+    {
+      "id": 108,
+      "name": "Fake id",
+      "category": "Utilities & Tools",
+      "description": "Fake ID generator",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/fake-id.png"
+    },
+    {
+      "id": 109,
+      "name": "Voice Changer",
+      "category": "Utilities & Tools",
+      "description": "Real-time voice modification",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/voice-changer.png"
+    },
+    {
+      "id": 110,
+      "name": "Temp Mail",
+      "category": "Utilities & Tools",
+      "description": "Temporary email generator",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/temp-mail.png"
+    },
+    {
+      "id": 111,
+      "name": "Clone App",
+      "category": "Utilities & Tools",
+      "description": "App cloning and dual space",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/clone-app.png"
+    },
+    {
+      "id": 112,
+      "name": "Utool",
+      "category": "Utilities & Tools",
+      "description": "Multi-tool utility app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/utool.png"
+    },
+    {
+      "id": 113,
+      "name": "Wallcraft",
+      "category": "Utilities & Tools",
+      "description": "Wallpaper collection app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/wallcraft.png"
+    },
+    {
+      "id": 114,
+      "name": "AG Auto Clicker",
+      "category": "Utilities & Tools",
+      "description": "Automated clicking tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/ag-auto-clicker.png"
+    },
+    {
+      "id": 115,
+      "name": "Whatauto",
+      "category": "Utilities & Tools",
+      "description": "WhatsApp automation tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/whatauto.png"
+    },
+    {
+      "id": 116,
+      "name": "BitTorrent",
+      "category": "Utilities & Tools",
+      "description": "Torrent client for Android",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/bittorrent.png"
+    },
+    {
+      "id": 117,
+      "name": "Terabox",
+      "category": "Utilities & Tools",
+      "description": "Cloud storage service",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/terabox.png"
+    },
+    {
+      "id": 118,
+      "name": "SD Maid SE",
+      "category": "Utilities & Tools",
+      "description": "System cleaning tool",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/sd-maid.png"
+    },
+    {
+      "id": 119,
+      "name": "Smart Launcher",
+      "category": "Utilities & Tools",
+      "description": "Custom Android launcher",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/smart-launcher.png"
+    },
+    {
+      "id": 120,
+      "name": "Niagara Launcher",
+      "category": "Utilities & Tools",
+      "description": "Minimalist Android launcher",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/niagara-launcher.png"
+    },
+    {
+      "id": 121,
+      "name": "Truecaller: Caller ID & Block",
+      "category": "Communication & Calling",
+      "description": "Caller identification and blocking",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/truecaller.png"
+    },
+    {
+      "id": 122,
+      "name": "Red Flash Bomber",
+      "category": "Communication & Calling",
+      "description": "Prank calling app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/red-flash.png"
+    },
+    {
+      "id": 123,
+      "name": "MAXX Number Hack",
+      "category": "Communication & Calling",
+      "description": "Phone number tools",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/maxx-number.png"
+    },
+    {
+      "id": 124,
+      "name": "Zapya",
+      "category": "File Sharing & Download",
+      "description": "File sharing across devices",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/zapya.png"
+    },
+    {
+      "id": 125,
+      "name": "SHAREit",
+      "category": "File Sharing & Download",
+      "description": "File transfer app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/shareit.png"
+    },
+    {
+      "id": 126,
+      "name": "Snaptube",
+      "category": "File Sharing & Download",
+      "description": "Video downloader from multiple platforms",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/snaptube.png"
+    },
+    {
+      "id": 127,
+      "name": "PLAYit",
+      "category": "File Sharing & Download",
+      "description": "Media player and downloader",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/playit.png"
+    },
+    {
+      "id": 128,
+      "name": "Tinder Gold",
+      "category": "Dating",
+      "description": "Premium dating app features",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/tinder-gold.png"
+    },
+    {
+      "id": 129,
+      "name": "Benime",
+      "category": "Animation & Creative",
+      "description": "Animation creation app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/benime.png"
+    },
+    {
+      "id": 130,
+      "name": "ToonApp",
+      "category": "Animation & Creative",
+      "description": "Cartoon and anime photo editor",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/toonapp.png"
+    },
+    {
+      "id": 131,
+      "name": "Special effect",
+      "category": "Animation & Creative",
+      "description": "Special effects for videos",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/special-effect.png"
+    },
+    {
+      "id": 132,
+      "name": "Daily Expenses 3",
+      "category": "Finance Management",
+      "description": "Expense tracking app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/daily-expenses.png"
+    },
+    {
+      "id": 133,
+      "name": "Ultimate Facts",
+      "category": "News & Information",
+      "description": "Interesting facts app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/ultimate-facts.png"
+    },
+    {
+      "id": 134,
+      "name": "Sofascore",
+      "category": "News & Information",
+      "description": "Sports scores and statistics",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/sofascore.png"
+    },
+    {
+      "id": 135,
+      "name": "365Scores",
+      "category": "News & Information",
+      "description": "Sports news and scores",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/365scores.png"
+    },
+    {
+      "id": 136,
+      "name": "Pixiv",
+      "category": "Others",
+      "description": "Japanese art community platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/pixiv.png"
+    },
+    {
+      "id": 137,
+      "name": "RUTUBE",
+      "category": "Others",
+      "description": "Russian video hosting service",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/rutube.png"
+    },
+    {
+      "id": 138,
+      "name": "CRICFy",
+      "category": "Others",
+      "description": "Cricket scoring and updates",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/cricfy.png"
+    },
+    {
+      "id": 139,
+      "name": "Cricket Line Guru",
+      "category": "Others",
+      "description": "Cricket betting tips",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/cricket-line.png"
+    },
+    {
+      "id": 140,
+      "name": "Peachy",
+      "category": "Others",
+      "description": "Unknown app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/peachy.png"
+    },
+    {
+      "id": 141,
+      "name": "chanderi",
+      "category": "Others",
+      "description": "Unknown app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/chanderi.png"
+    },
+    {
+      "id": 142,
+      "name": "Studi",
+      "category": "Others",
+      "description": "Unknown app",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/studi.png"
+    },
+    {
+      "id": 143,
+      "name": "ShortPlay",
+      "category": "Others",
+      "description": "Short video platform",
+      "isFeatured": true,
+      "price": "200 PKR",
+      "icon": "/icons/shortplay.png"
+    }
+  ]
