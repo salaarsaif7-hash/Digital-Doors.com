@@ -39,16 +39,16 @@ const StreamingPage = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black p-4 sm:p-6 md:p-8">
+    <div className="min-h-screen bg-linear-to-br from-gray-900 via-gray-800 to-black p-4 sm:p-6 md:p-8">
       {/* Header */}
       <div className="text-center mb-8 sm:mb-12">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-2 bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-2 bg-linear-to-r from-blue-500 via-purple-500 to-pink-500 bg-clip-text text-transparent">
           Streaming Apps
         </h1>
         <p className="text-gray-400 text-sm sm:text-base">
           Premium Entertainment Collection
         </p>
-        <div className="w-20 sm:w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto mt-4 rounded-full"></div>
+        <div className="w-20 sm:w-24 h-1 bg-linear-to-r from-blue-500 to-purple-500 mx-auto mt-4 rounded-full"></div>
       </div>
 
       {/* Apps Grid */}
@@ -56,7 +56,7 @@ const StreamingPage = () => {
         {apps.length > 0 ? (
           apps.map((app) => (
             <div key={app.id} className="group relative">
-              <div className="absolute -inset-0.5 bg-gradient-to-r from-green-500 to-emerald-500 rounded-2xl blur opacity-0 group-hover:opacity-100 transition duration-500"></div>
+              <div className="absolute -inset-0.5 bg-linear-to-r from-green-500 to-emerald-500 rounded-2xl blur opacity-0 group-hover:opacity-100 transition duration-500"></div>
 
               {/* Card */}
               <div className="relative bg-gray-800 rounded-2xl overflow-hidden shadow-2xl transition-all duration-300 hover:scale-105 h-full flex flex-col">
@@ -97,7 +97,7 @@ const StreamingPage = () => {
                       {app.name}
                     </h2>
 
-                    <span className="inline-block mb-3 px-3 py-1 bg-gradient-to-r from-blue-600 to-purple-600 text-white text-xs font-semibold rounded-full">
+                    <span className="inline-block mb-3 px-3 py-1 bg-linear-to-r from-blue-600 to-purple-600 text-white text-xs font-semibold rounded-full">
                       {app.category}
                     </span>
 

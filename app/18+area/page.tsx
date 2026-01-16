@@ -29,16 +29,16 @@ const Page = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black p-4 sm:p-6 md:p-8">
+    <div className="min-h-screen bg-linear-to-br from-gray-900 via-gray-800 to-black p-4 sm:p-6 md:p-8">
       {/* Header */}
       <div className="text-center mb-8 sm:mb-12">
-        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-2 bg-gradient-to-r from-red-500 via-red-400 to-pink-500 bg-clip-text text-transparent">
+        <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-2 bg-linear-to-r from-red-500 via-red-400 to-pink-500 bg-clip-text text-transparent">
           BEST PREMIUM APPS ZONE 
         </h1>
         <p className="text-gray-400 text-sm sm:text-base md:text-lg">
           Premium version Ads Free Applications Collection
         </p>
-        <div className="w-20 sm:w-24 h-1 bg-gradient-to-r from-red-500 to-pink-500 mx-auto mt-4 rounded-full"></div>
+        <div className="w-20 sm:w-24 h-1 bg-linear-to-r from-red-500 to-pink-500 mx-auto mt-4 rounded-full"></div>
       </div>
 
       {/* Cards Grid */}
@@ -46,7 +46,7 @@ const Page = () => {
         {appsData.map((app) => (
           <div key={app.id} className="group relative">
             {/* Card Glow */}
-            <div className="absolute -inset-0.5 bg-gradient-to-r from-red-600 to-pink-600 rounded-2xl blur opacity-0 group-hover:opacity-100 transition duration-500"></div>
+            <div className="absolute -inset-0.5 bg-linear-to-r from-red-600 to-pink-600 rounded-2xl blur opacity-0 group-hover:opacity-100 transition duration-500"></div>
 
             {/* Card Container */}
             <div className="relative bg-gray-800 rounded-2xl overflow-hidden shadow-2xl transition-all duration-300 hover:scale-105">
@@ -77,7 +77,7 @@ const Page = () => {
 
                 {/* Category Badge */}
                 <div className="inline-block mb-3">
-                  <span className="px-2 sm:px-3 py-1 bg-gradient-to-r from-red-600 to-pink-600 text-white text-xs font-semibold rounded-full">
+                  <span className="px-2 sm:px-3 py-1 bg-linear-to-r from-red-600 to-pink-600 text-white text-xs font-semibold rounded-full">
                     {app.category}
                   </span>
                 </div>
@@ -91,7 +91,7 @@ const Page = () => {
                 <div className="flex justify-between items-center gap-2 sm:gap-3 pt-3 border-t border-gray-700">
                   <div>
                     <p className="text-gray-500 text-xs">Price</p>
-                    <p className="font-bold text-base sm:text-lg bg-gradient-to-r from-red-400 to-pink-400 bg-clip-text text-transparent">
+                    <p className="font-bold text-base sm:text-lg bg-linear-to-r from-red-400 to-pink-400 bg-clip-text text-transparent">
                       {app.price}
                     </p>
                   </div>
