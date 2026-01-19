@@ -10,17 +10,36 @@ export default function WhatsAppButton() {
   };
 
   return (
-    <div className="fixed md:left-6 md:top-4/5 md:transform md:-translate-y-1/2 left-6 bottom-6 md:bottom-auto right-auto z-50">
+    <div className="fixed right-5 bottom-5 md:right-6 md:bottom-6 z-50">
       <button
         onClick={handleClick}
-        className="bg-green-500 hover:bg-green-600 text-white font-bold py-3 md:py-4 px-6 md:px-8 rounded-full shadow-lg flex items-center gap-2 md:gap-3 transition-all duration-300 transform hover:scale-110"
         aria-label="Contact us on WhatsApp"
+        className="
+          relative
+          flex items-center gap-3
+          bg-green-500 hover:bg-green-600
+          text-white font-bold
+          py-3 px-5 md:py-4 md:px-6
+          rounded-full
+          shadow-[0_0_25px_rgba(34,197,94,0.6)]
+          transition-all duration-300
+          hover:scale-110
+          animate-pulse
+        "
       >
+        {/* Glow Ring */}
+        <span className="absolute inset-0 rounded-full bg-green-400 opacity-30 blur-lg animate-ping"></span>
+
+        {/* Icon */}
         <MessageCircle
-          size={24}
-          className="md:w-7 md:h-7 transition-all duration-300 hover:animate-bounce"
+          size={26}
+          className="relative z-10 animate-bounce"
         />
-        <span className="md:inline">WhatsApp</span>
+
+        {/* Text (hidden on mobile) */}
+        <span className="relative z-10 hidden md:inline">
+          WhatsApp
+        </span>
       </button>
     </div>
   );

@@ -2,7 +2,7 @@
 
 import HeroSection from '@/components/HeroSection'
 import { Spotlight } from '@/components/ui/Spotlight-new';
-import FeaturedCouses from '@/components/FeaturedCouses';
+// import FeaturedCouses from '@/components/FeaturedCouses';
 import FeaturesSectionDemo from '@/components/card';
 
 const page = () => {
@@ -13,7 +13,7 @@ const page = () => {
       />
         
       <HeroSection />
-      <FeaturedCouses />
+      {/* <FeaturedCouses /> */}
       <FeaturesSectionDemo />
 
     </main>

@@ -22,10 +22,10 @@ export function NavbarDemo() {
       name: "AI Prermium Tools",
       link: "/ai",
     },
-    {
-      name: "18+Area",
-      link: "/18+area",
-    },
+    // {
+    //   name: "18+Area",
+    //   link: "/18+area",
+    // },
     {
       name: "Streaming & Entertainment",
       link: "/streaming",
