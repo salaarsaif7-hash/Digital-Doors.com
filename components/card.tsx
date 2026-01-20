@@ -100,7 +100,7 @@ export const FeaturesSectionDemo: React.FC = () => {
               )}
 
               {/* Glow effect */}
-              <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-red-500/10 blur-3xl group-hover:bg-red-500/20 transition-all duration-500" />
+              {/* <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-red-500/10 blur-3xl group-hover:bg-red-500/20 transition-all duration-500" /> */}
             </motion.div>
           ))}
         </div>

@@ -4,6 +4,9 @@ import { IconMenu2, IconX } from "@tabler/icons-react";
 import { motion, useScroll, useMotionValueEvent } from "motion/react";
 import Link from "next/link";
 import React, { useRef, useState } from "react";
+import Image from "next/image";
+import SalaarStore from "@/public/SalaarStore.png"; 
+
 
 // ---------- Props Interfaces ----------
 interface NavbarProps {
@@ -100,7 +103,7 @@ export const NavItems = ({ items, className, onItemClick }: NavItemsProps) => {
     <motion.div
       onMouseLeave={() => setHovered(null)}
       className={cn(
-        "absolute inset-0 hidden flex-1 flex-row items-center justify-center space-x-2 text-sm font-medium text-zinc-600 transition duration-200 hover:text-zinc-800 lg:flex lg:space-x-2",
+        "absolute inset-0 hidden text-lg flex-1 flex-row items-center justify-center space-x-2  font-medium text-zinc-600 transition duration-200 hover:text-zinc-800 lg:flex lg:space-x-2",
         className
       )}
     >
@@ -161,15 +164,26 @@ export const MobileNavMenu = ({ isOpen, onClose, children, className }: MobileNa
   if (!isOpen) return null;
 
   return (
-    <div className={cn("fixed inset-0 z-50 bg-black/60", className)}>
+    <div className={cn("fixed inset-0 z-50 bg-", className)}>
       {/* backdrop */}
       <div className="absolute inset-0" onClick={onClose} />
 
       {/* menu panel */}
-      <div className="absolute top-0 right-0 h-full w-72 bg-white dark:bg-black p-6 flex flex-col gap-4">{children}</div>
+      <div
+        className="
+          absolute top-0 left-0 h-full w-72
+          bg-black dark:bg-black
+          p-6 flex flex-col gap-4
+          transform transition-transform duration-300 ease-in-out
+          translate-x-0
+        "
+      >
+        {children}
+      </div>
     </div>
   );
 };
+
 
 export const MobileNavToggle = ({ isOpen, onClick }: { isOpen: boolean; onClick: () => void }) => {
   return isOpen ? (
@@ -181,14 +195,58 @@ export const MobileNavToggle = ({ isOpen, onClick }: { isOpen: boolean; onClick:
 
 // ---------- Logo & Buttons ----------
 
+
+
 export const NavbarLogo = () => {
+  const text = "Salaar Store";
+
+  const letters = text.split("");
+
+  const containerVariants = {
+    hidden: {},
+    visible: {
+      transition: {
+        staggerChildren: 0.20, 
+      },
+    },
+  };
+
+  const letterVariants = {
+    hidden: { opacity: 0, x: 20 }, 
+    visible: { opacity: 1, x: 0, transition: { type: "spring", stiffness: 300, damping: 20 } },
+  };
+
   return (
-    <Link href="/" className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal text-black">
-      <img src="/logo.svg.png" alt="logo" width={40} height={40} className="rounded-full object-cover bg-transparent" />
-      <span className="font-medium text-white">DIGITAL DOORS</span>
+    <Link
+      href="/"
+      className="relative z-20 mr-4 flex items-center space-x-2 px-2 py-1 text-sm font-normal"
+    >
+      <Image
+        src={SalaarStore}
+        alt="logo"
+        width={40}
+        height={40}
+        className="rounded-full object-cover bg-white"
+        priority
+      />
+
+      <motion.div
+        className="flex text-2xl font-semibold text-white mt-2 overflow-hidden"
+        variants={containerVariants}
+        initial="hidden"
+        animate="visible"
+      >
+        {letters.map((letter, index) => (
+          <motion.span key={index} variants={letterVariants}>
+            {letter === " " ? "\u00A0" : letter} 
+          </motion.span>
+        ))}
+      </motion.div>
     </Link>
   );
 };
+
+
 
 export const NavbarButton = ({
   href,

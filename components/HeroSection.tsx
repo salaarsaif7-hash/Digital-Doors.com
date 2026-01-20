@@ -15,7 +15,7 @@ const HeroSection = () => {
       
       <div className="relative z-10 w-full max-w-4xl text-center bg-black/80 backdrop-blur rounded-2xl flex flex-col items-center justify-center mx-auto text-white">
         
-        <h1 className="text-4xl md:text-5xl font-bold leading-tight">
+        <h1 className="text-3xl md:text-5xl font-bold leading-tight">
           Opening Doors to Digital Success
         </h1>
 
