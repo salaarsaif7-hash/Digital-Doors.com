@@ -164,7 +164,7 @@ export const MobileNavMenu = ({ isOpen, onClose, children, className }: MobileNa
   if (!isOpen) return null;
 
   return (
-    <div className={cn("fixed inset-0 z-50 bg-", className)}>
+    <div className={cn("fixed inset-0 z-50 bg-black/90", className)}>
       {/* backdrop */}
       <div className="absolute inset-0" onClick={onClose} />
 
