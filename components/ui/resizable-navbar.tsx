@@ -6,6 +6,7 @@ import Link from "next/link";
 import React, { useRef, useState } from "react";
 import Image from "next/image";
 import SalaarStore from "@/public/SalaarStore.png"; 
+import type { Variants } from "motion/react";
 
 
 // ---------- Props Interfaces ----------
@@ -202,19 +203,31 @@ export const NavbarLogo = () => {
 
   const letters = text.split("");
 
-  const containerVariants = {
-    hidden: {},
-    visible: {
-      transition: {
-        staggerChildren: 0.20, 
-      },
+const containerVariants: Variants = {
+  hidden: {},
+  visible: {
+    transition: {
+      staggerChildren: 0.2,
     },
-  };
+  },
+};
 
-  const letterVariants = {
-    hidden: { opacity: 0, x: 20 }, 
-    visible: { opacity: 1, x: 0, transition: { type: "spring", stiffness: 300, damping: 20 } },
-  };
+const letterVariants: Variants = {
+  hidden: {
+    opacity: 0,
+    x: 20,
+  },
+  visible: {
+    opacity: 1,
+    x: 0,
+    transition: {
+      type: "spring" as const, // 🔥 THIS IS THE KEY
+      stiffness: 300,
+      damping: 20,
+    },
+  },
+};
+
 
   return (
     <Link
