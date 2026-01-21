@@ -2,7 +2,14 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    domains: ["jollymod.com"], // Add all external image hosts here
+    remotePatterns: [
+      {
+        protocol: 'https',
+        hostname: 'jollymod.com',
+        port: '',
+        pathname: '/**',
+      },
+    ],
   },
 };
 
